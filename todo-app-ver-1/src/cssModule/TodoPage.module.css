@@ -1,0 +1,11 @@
+.todoPageOuter {
+  display: flex;
+  margin: 0 5%;
+  margin-bottom: 40%;
+}
+
+.todoPageInner {
+  display: grid;
+  flex-grow: 1;
+  margin: 0 5%;
+}

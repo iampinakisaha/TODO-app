@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 10px;
+  border: 1px solid rgb(212, 204, 204);
+  border-radius: 5px;
+  padding: 10px;
+  height: 70px;
+  width: 100%;
+}
+
+.headerText {
+  font-size: 24px; /* Adjusted font size for better readability */
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 600;
+  text-align: center; /* Center align the text */
+  margin: 0; /* Remove default margin */
+}
